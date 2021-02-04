@@ -1,0 +1,31 @@
+{
+  "name": "react-native-pin-entry",
+  "version": "1.1.8",
+  "description": "Pin Entry Component",
+  "main": "src/index.tsx",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://sandeepenest@bitbucket.org/sandeepenest/pininput-react-native.git"
+  },
+  "keywords": [
+    "\"pin",
+    "entry\"",
+    "\"react-native\"",
+    "\"otp-pin\"",
+    "\"react-component\"",
+    "\"sms-pin\"",
+    "\"verfication-code\""
+  ],
+  "author": "Sandeep Sohal",
+  "license": "MIT",
+  "homepage": "https://bitbucket.org/sandeepenest/pininput-react-native#readme",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-native": "^0.63.3"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.56",
+    "@types/react-native": "^0.63.35"
+  }
+}
